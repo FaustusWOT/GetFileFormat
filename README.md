@@ -1,0 +1,2 @@
+# GetFileFormat
+Example pascal program
