@@ -1,0 +1,33 @@
+
+# »гнорируем файлы, создаваемые при компил€ции
+*.o
+*.or
+*.a
+*.ppu
+*.res
+
+*.lpi
+*.lps
+
+#игнорируем exe и dll файлы
+*.exe
+*.dll
+
+# »гнорируем логи
+*.log
+*.rar
+*.bak
+
+# »гнорируем каталоги
+Archive/
+backup/
+datatoload/
+errors/
+lib/
+NotUsed/
+SBERSplit/
+tests/
+Utils/
+Units/
+
+ 

@@ -1,0 +1,26 @@
+#AppIcon ICON "MakeArc.ico"
+1 VERSIONINFO
+FILEVERSION 2, 2, 17, 0
+PRODUCTVERSION 2, 2, 0, 0
+FILEFLAGSMASK 0
+FILEOS 0x40000
+FILETYPE 1
+{
+ BLOCK "StringFileInfo"
+ {
+  BLOCK "040904E4"
+  {
+VALUE "BuildNumber", "17"
+VALUE "BuildDate", "01.09.2023 13:53.36"
+   VALUE "CompanyName", "Alexander Cherepnew"
+   VALUE "FileDescription", "GetFileDataTypes - Get file table description."
+   VALUE "FileVersion", "2.02"
+   VALUE "InternalName", "GetFielDataTypes.exe"
+   VALUE "LegalCopyright", "Alexander Cherepnew"
+   VALUE "OriginalFilename", "GetFileDataTypes.pp"
+   VALUE "ProductName", "Global data V2"
+   VALUE "ProductVersion", "2.02"
+  }
+ }
+}
+
